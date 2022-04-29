@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.18.0"
+  },
+  "name": "nodejs-simulate-oom",
+  "version": "0.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/clarencetw/nodejs-simulate-oom.git",
+  "author": "clarencetw <mr.lin.clarence@gmail.com>",
+  "license": "apache-2.0",
+  "private": true
+}
